@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/informacion.png</file>
+        <file>Resources/receipt_120402.png</file>
+        <file>Resources/shop_icon-icons.com_51010.png</file>
+        <file>Resources/Rojo Negro Sombra Voces por la Justicia Logotipo.png</file>
+    </qresource>
+</RCC>
